@@ -1,2 +1,2 @@
-# forste-prosjekt
+# forste-repository
 For testing purposes
